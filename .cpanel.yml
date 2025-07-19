@@ -2,4 +2,5 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/tapaitoon/spectra
+    - /bin/cp index.html $DEPLOYPATH
 
