@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/tapaitoon/spectra
+    - export DEPLOYPATH=/home/awlroxam/repositories/spectra
     - /bin/cp index.html $DEPLOYPATH
 
