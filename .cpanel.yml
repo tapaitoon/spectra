@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/awlroxam/public_html/kaimook.my.to
-    - /bin cp * $DEPLOYPATH  
